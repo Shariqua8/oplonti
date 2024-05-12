@@ -1,4 +1,4 @@
-# NPS (Nome del Progetto Segreto)
+# NPS (Nick Person Shooter)
 
 ## Descrizione del Progetto
 
