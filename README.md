@@ -25,7 +25,7 @@ Di seguito sono riportate alcune immagini dimostrative che mostrano i vari compo
 
 ## Documento delle Idee
 
-Per una visione più dettagliata del concetto e delle idee di sviluppo del progetto, si prega di fare riferimento al [Documento delle Idee](https://docs.google.com/document/d/1TCsCbW4-6m11ieZX4D781cY0ZxwOtSkFAAl03f73vTk/edit?usp=drivesdk){:target="_blank"}.
+Per una visione più dettagliata del concetto e delle idee di sviluppo del progetto, si prega di fare riferimento al [Documento delle Idee](https://docs.google.com/document/d/1TCsCbW4-6m11ieZX4D781cY0ZxwOtSkFAAl03f73vTk/edit?usp=drivesdk){target="_blank"}.
 
 ## Informazioni sul Team
 
